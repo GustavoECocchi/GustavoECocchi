@@ -142,14 +142,6 @@ Estudando atualmente:
 
 ---
 
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoECocchi&theme=tokyonight">
-</p>
-
----
-
 # 📚 Interesses Atuais
 
 * Inteligência Artificial

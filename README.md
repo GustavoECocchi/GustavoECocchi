@@ -145,7 +145,7 @@ Estudando atualmente:
 # 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GustavoECocchi/GustavoECocchi/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoECocchi&theme=tokyonight">
 </p>
 
 ---

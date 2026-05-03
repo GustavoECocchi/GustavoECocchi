@@ -1,7 +1,7 @@
 # 👋 Gustavo Cocchi
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Systems+Developer;Building+Scalable+SaaS;Backend+Architecture+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Engenharia+de+Software;Desenvolvimento+de+Sistemas+com+IA;Construindo+SaaS+Escaláveis;Entusiasta+de+Arquitetura+Backend" />
 </p>
 
 ---
@@ -14,69 +14,69 @@
 
 ```python
 class Gustavo:
-    role = "Software Engineer"
+    cargo = "Software Engineer"
 
-    focus = [
-        "AI Systems",
-        "Backend Engineering",
-        "SaaS Architecture",
-        "Automation",
-        "Full Stack Development"
+    foco = [
+        "Sistemas com IA",
+        "Engenharia Backend",
+        "Arquitetura SaaS",
+        "Automação",
+        "Desenvolvimento Full Stack"
     ]
 
-    currently_building = [
+    construindo = [
         "NexGestor",
-        "AI-powered dashboards",
-        "Scalable backend systems",
-        "Automation workflows"
+        "Dashboards com IA",
+        "Sistemas backend escaláveis",
+        "Fluxos de automação"
     ]
 
-    philosophy = "Building systems that feel futuristic."
+    filosofia = "Construindo sistemas com aparência futurista."
 ```
 
 ---
 
-# 🚀 About Me
+# 🚀 Sobre Mim
 
-I'm a Brazilian software developer focused on building scalable systems, intelligent automations and modern SaaS products.
+Estudante de engenharia de software focado na construção de sistemas escaláveis, automações inteligentes e produtos SaaS modernos.
 
-I enjoy designing backend architectures, creating AI-driven solutions and developing products that solve real-world problems.
+Gosto de projetar arquiteturas backend, criar soluções com inteligência artificial e desenvolver produtos que resolvem problemas reais.
 
-Currently exploring:
+Atualmente explorando:
 
-* AI Engineering
-* Distributed Systems
-* System Design
-* High-performance APIs
-* Intelligent Automation
-* Product Engineering
+* Engenharia de IA
+* Sistemas Distribuídos
+* Design de Sistemas
+* APIs de alta performance
+* Automação Inteligente
+* Engenharia de Produto
 
 ---
 
-# 🏗 Architecture & Engineering
+# 🏗 Arquitetura & Engenharia
 
-I enjoy designing systems with:
+Tenho interesse em construir sistemas utilizando:
 
 * Clean Architecture
-* Event-driven workflows
-* Queue processing
-* Intelligent caching
-* AI orchestration
-* Overlay-first interfaces
-* Scalable backend patterns
-* Real-time systems
+* Workflows orientados a eventos
+* Processamento em filas
+* Cache inteligente
+* Orquestração de IA
+* Interfaces overlay-first
+* Padrões backend escaláveis
+* Sistemas em tempo real
 
-Currently studying:
+Estudando atualmente:
 
-* Distributed Systems
-* AI Infrastructure
-* Backend Scalability
-* Product Architecture
-* Performance Optimization
+* Sistemas Distribuídos
+* Infraestrutura para IA
+* Escalabilidade Backend
+* Arquitetura de Produto
+* Otimização de Performance
 
 ---
 
-# 🧠 Tech Stack
+# 🧠 Tecnologias
 
 ## Backend
 
@@ -97,7 +97,7 @@ Currently studying:
 
 ---
 
-## Other Technologies
+## Outras Tecnologias
 
 ![Unity](https://img.shields.io/badge/Unity-111?style=for-the-badge\&logo=unity)
 ![Arduino](https://img.shields.io/badge/Arduino-111?style=for-the-badge\&logo=arduino)
@@ -105,18 +105,18 @@ Currently studying:
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projetos em Destaque
 
-| Project           | Description                                                              | Stack                 |
-| ----------------- | ------------------------------------------------------------------------ | --------------------- |
-| NexGestor         | Overlay-first SaaS platform for traffic managers with AI-driven insights | FastAPI, React, Redis |
-| EcoSOS            | AI chatbot focused on flood prevention and emergency guidance            | Python, NLP           |
-| AI Systems        | Intelligent workflow automations and AI integrations                     | Python, APIs          |
-| Infinity Run Game | Endless runner game developed with Unity                                 | Unity, C#             |
+| Porjetos                                                                         | Stack                 |
+| ---------------------------------------------------------------------------------|-----------------------| 
+| Plataforma SaaS overlay-first para gestores de tráfego com insights inteligentes | FastAPI, React, Redis |
+| Chatbot com IA voltado para prevenção de enchentes e orientação emergencial      | Python, NLP           |
+| Automações inteligentes e integrações utilizando IA                              | Python, APIs          |
+| Endless runner desenvolvido com Unity                                            | Unity, C#             |
 
 ---
 
-# 📈 GitHub Stats
+# 📈 Estatísticas do GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoECocchi&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -126,7 +126,7 @@ Currently studying:
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 Sequência de Contribuições
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GustavoECocchi&theme=tokyonight&hide_border=true"/>
@@ -142,37 +142,26 @@ Currently studying:
 
 ---
 
-# ⚙ Currently Building
+# 📚 Interesses Atuais
 
-```txt
-> NexGestor SaaS Platform
-> AI-powered dashboards
-> Intelligent automation systems
-> High-performance backend services
-```
-
----
-
-# 📚 Current Interests
-
-* Artificial Intelligence
-* Software Architecture
-* Backend Engineering
-* SaaS Development
-* Product Design
-* System Scalability
-* Automation Workflows
+* Inteligência Artificial
+* Arquitetura de Software
+* Engenharia Backend
+* Desenvolvimento SaaS
+* Design de Produto
+* Escalabilidade de Sistemas
+* Fluxos de Automação
 
 ---
 
-# 📫 Contact
+# 📫 Contato
 
 * GitHub: https://github.com/GustavoECocchi
-* LinkedIn: add-your-linkedin
-* Email: add-your-email
+* LinkedIn: www.linkedin.com/in/gustavo-estevam-cocchi-0b54442a7
+* E-mail: gustavococchi2033@gmail.com
 
 ---
 
 <p align="center">
-  <i>"Building systems that feel futuristic."</i>
+  <i>"Construindo sistemas com aparência futurista."</i>
 </p>

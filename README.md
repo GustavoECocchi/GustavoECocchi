@@ -38,16 +38,16 @@ class Gustavo:
 
 # 🚀 Sobre Mim
 
-Estudante de engenharia de software focado na construção de sistemas escaláveis, automações inteligentes e produtos SaaS modernos.
+Estudante de Engenharia de Software focado na construção de sistemas escaláveis, automações inteligentes e produtos SaaS modernos.
 
-Gosto de projetar arquiteturas backend, criar soluções com inteligência artificial e desenvolver produtos que resolvem problemas reais.
+Tenho interesse em arquitetura backend, inteligência artificial, sistemas distribuídos e desenvolvimento de soluções voltadas para problemas reais.
 
 Atualmente explorando:
 
 * Engenharia de IA
 * Sistemas Distribuídos
 * Design de Sistemas
-* APIs de alta performance
+* APIs de Alta Performance
 * Automação Inteligente
 * Engenharia de Produto
 
@@ -107,21 +107,21 @@ Estudando atualmente:
 
 # 🚀 Projetos em Destaque
 
-| Porjetos                                                                         | Stack                 |
-| ---------------------------------------------------------------------------------|-----------------------| 
-| Plataforma SaaS overlay-first para gestores de tráfego com insights inteligentes | FastAPI, React, Redis |
-| Chatbot com IA voltado para prevenção de enchentes e orientação emergencial      | Python, NLP           |
-| Automações inteligentes e integrações utilizando IA                              | Python, APIs          |
-| Endless runner desenvolvido com Unity                                            | Unity, C#             |
+| Projeto           | Descrição                                                                        | Stack                 |
+| ----------------- | -------------------------------------------------------------------------------- | --------------------- |
+| NexGestor         | Plataforma SaaS overlay-first para gestores de tráfego com insights inteligentes | FastAPI, React, Redis |
+| EcoSOS            | Chatbot com IA voltado para prevenção de enchentes e orientação emergencial      | Python, NLP           |
+| Sistemas com IA   | Automações inteligentes e integrações utilizando IA                              | Python, APIs          |
+| Infinity Run Game | Endless runner desenvolvido com Unity                                            | Unity, C#             |
 
 ---
 
 # 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoECocchi&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoECocchi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoECocchi&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoECocchi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -129,7 +129,15 @@ Estudando atualmente:
 # 🔥 Sequência de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GustavoECocchi&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=GustavoECocchi&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Perfil Técnico
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoECocchi&theme=tokyonight">
 </p>
 
 ---
@@ -157,8 +165,8 @@ Estudando atualmente:
 # 📫 Contato
 
 * GitHub: https://github.com/GustavoECocchi
-* LinkedIn: www.linkedin.com/in/gustavo-estevam-cocchi-0b54442a7
-* E-mail: gustavococchi2033@gmail.com
+* LinkedIn: https://www.linkedin.com/in/gustavo-estevam-cocchi-0b54442a7
+* E-mail: [gustavococchi2033@gmail.com](mailto:gustavococchi2033@gmail.com)
 
 ---
 

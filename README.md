@@ -1,4 +1,4 @@
-# 👋 Gustavo Cocchi
+# 👋 Gustavo Estevam Cocchi
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineer;AI+%26+Backend+Developer;Building+Scalable+Systems" />

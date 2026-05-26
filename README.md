@@ -53,7 +53,7 @@ Atualmente explorando:
 
 ---
 
-# 🏗 Arquitetura & Engenharia
+# Arquitetura & Engenharia
 
 Tenho interesse em construir sistemas utilizando:
 

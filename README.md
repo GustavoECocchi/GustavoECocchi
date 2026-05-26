@@ -1,4 +1,4 @@
-# 👋 Gustavo Estevam Cocchi
+#  Gustavo Estevam Cocchi
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineer;AI+%26+Backend+Developer;Building+Scalable+Systems" />
@@ -36,7 +36,7 @@ class Gustavo:
 
 ---
 
-# 🚀 Sobre Mim
+# Sobre Mim
 
 Estudante de Engenharia de Software focado na construção de sistemas escaláveis, automações inteligentes e produtos SaaS modernos.
 
@@ -76,7 +76,7 @@ Estudando atualmente:
 
 ---
 
-# 🧠 Tecnologias
+# Tecnologias
 
 ## Backend
 
@@ -105,7 +105,7 @@ Estudando atualmente:
 
 ---
 
-# 🚀 Projetos em Destaque
+# Projetos em Destaque
 
 | Projeto           | Descrição                                                                        | Stack                 |
 | ----------------- | -------------------------------------------------------------------------------- | --------------------- |
@@ -116,7 +116,7 @@ Estudando atualmente:
 
 ---
 
-# 📈 Estatísticas do GitHub
+# Estatísticas do GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoECocchi&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -126,7 +126,7 @@ Estudando atualmente:
 
 ---
 
-# 🔥 Sequência de Contribuições
+# Sequência de Contribuições
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GustavoECocchi&theme=tokyonight&hide_border=true"/>
@@ -134,7 +134,7 @@ Estudando atualmente:
 
 ---
 
-# 📊 Perfil Técnico
+# Perfil Técnico
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoECocchi&theme=tokyonight">
@@ -142,7 +142,7 @@ Estudando atualmente:
 
 ---
 
-# 📚 Interesses Atuais
+# Interesses Atuais
 
 * Inteligência Artificial
 * Arquitetura de Software
@@ -154,7 +154,7 @@ Estudando atualmente:
 
 ---
 
-# 📫 Contato
+# Contato
 
 * GitHub: https://github.com/GustavoECocchi
 * LinkedIn: https://www.linkedin.com/in/gustavo-estevam-cocchi-0b54442a7

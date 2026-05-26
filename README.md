@@ -126,14 +126,6 @@ Estudando atualmente:
 
 ---
 
-# Sequência de Contribuições
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GustavoECocchi&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # Perfil Técnico
 
 <p align="center">

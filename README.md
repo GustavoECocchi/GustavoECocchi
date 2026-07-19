@@ -25,8 +25,8 @@ class Gustavo:
     ]
 
     construindo = [
-        "NexGestor",
-        "Dashboards com IA",
+        "Ferramentas úteis",
+        "SaaS com IA",
         "Sistemas backend escaláveis",
         "Fluxos de automação"
     ]

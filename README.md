@@ -85,8 +85,6 @@ Estudando atualmente:
 ![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge\&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge\&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge\&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-111?style=for-the-badge\&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge\&logo=docker)
 
 ---
 

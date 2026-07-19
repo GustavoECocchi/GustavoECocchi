@@ -110,10 +110,10 @@ Estudando atualmente:
 
 | Projeto           | Descrição                                                                        | Stack                 |
 | ----------------- | -------------------------------------------------------------------------------- | --------------------- |
-| NexGestor         | Plataforma SaaS overlay-first para gestores de tráfego com insights inteligentes | FastAPI, React, Redis |
+| NexGestor         | Plataforma SaaS overlay-first para gestores de tráfego com insights inteligentes | FastAPI, React,Plasmo |
 | EcoSOS            | Chatbot com IA voltado para prevenção de enchentes e orientação emergencial      | Python, NLP           |
-| Sistemas com IA   | Automações inteligentes e integrações utilizando IA                              | Python, APIs          |
-| Infinity Run Game | Endless runner desenvolvido com Unity                                            | Unity, C#             |
+| Auditor           | Ferramenta de perícia judicial - Cruza dados para fraude                         | Python, APIs          |
+| ConvIQ            | Ferramenta de trâncrição de reuniões com IA                                      | Python, NLP           |
 
 ---
 

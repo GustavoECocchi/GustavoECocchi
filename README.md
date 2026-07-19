@@ -138,7 +138,6 @@ Estudando atualmente:
 
 # Contato
 
-* GitHub: https://github.com/GustavoECocchi
 * LinkedIn: https://www.linkedin.com/in/gustavo-estevam-cocchi-0b54442a7
 * E-mail: [gustavococchi2033@gmail.com](mailto:gustavococchi2033@gmail.com)
 

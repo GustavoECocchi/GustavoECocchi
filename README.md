@@ -50,6 +50,7 @@ Atualmente explorando:
 * APIs de Alta Performance
 * Automação Inteligente
 * Engenharia de Produto
+* Inteligência Artificial
 
 ---
 
